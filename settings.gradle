@@ -1,3 +1,4 @@
 rootProject.name = 'clib'
 //include ':app'
 include ':c39'
+include ':app'
